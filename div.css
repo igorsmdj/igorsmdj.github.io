@@ -1,0 +1,24 @@
+*{margin:0;
+}
+
+#parent{
+    width: 500px;
+    height: 500px;
+    display: flex;
+    align-items:center ;
+    justify-content:space-around;
+    background-color: rgb(232, 163, 163);
+}
+
+.enfant{
+    width: 100px; 
+    height: 100px;
+    background-color: bisque;
+}
+#rond{
+    border-radius: 100%;
+}
+
+
+
+
