@@ -12,9 +12,6 @@ html{
     scroll-behavior: smooth;
     overflow-x: hidden;
 }
-body{
-   
-}
 
 #jaune{
     position:absolute;
@@ -40,7 +37,7 @@ body{
 
 #violet{
     position:absolute;
-    right: 1414px;
+    right: 90%;
     bottom: -128px; 
     width: 304px;
     height: 479px;
@@ -62,7 +59,7 @@ body{
 
 #rouge{
     position:absolute;
-    right: 270%;
+    right: 280%;
     bottom: -362px; 
     width: 223px;
     height: 411px;
